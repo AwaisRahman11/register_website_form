@@ -89,5 +89,6 @@ body {
   .left-side {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    border-bottom-left-radius: 0px;
   }
 }
